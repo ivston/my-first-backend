@@ -13,6 +13,9 @@
       "userId": 1
     }
   ],
+
+  "favorites": [{ "id": 1, "taskedId": 2 }],
+
   "tasks": [
     {
       "id": 1,
